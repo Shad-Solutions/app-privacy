@@ -12,5 +12,6 @@ Do not edit these files directly. Change the app manifest and regenerate.
 | App | Policy |
 | --- | --- |
 | Fairturn | https://shad-solutions.github.io/app-privacy/fairturn/ |
+| Bored? Silly Little Games | https://shad-solutions.github.io/app-privacy/bored/ (hand-maintained from `bored-app/docs/store/privacy-policy.md`; not an app-factory app) |
 
 Software Hardware and Application Design Solutions Limited, Ireland — support@shad.ie
